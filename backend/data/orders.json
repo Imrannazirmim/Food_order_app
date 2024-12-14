@@ -1,0 +1,50 @@
+[
+    {
+        "customer": {
+            "city": "dfdfdfd",
+            "email": "text@example.com",
+            "name": "pdoak",
+            "postal-code": "2222",
+            "street": "12200"
+        },
+        "id": "939.6292105046555",
+        "items": [
+            {
+                "description": "Creamy cheddar cheese mixed with perfectly cooked macaroni, topped with crispy breadcrumbs. A classic comfort food.",
+                "id": "m1",
+                "image": "images/mac-and-cheese.jpg",
+                "name": "Mac & Cheese",
+                "price": "8.99",
+                "quantity": 1
+            }
+        ]
+    },
+    {
+        "customer": {
+            "city": "dfdfdfd",
+            "email": "text@example.com",
+            "name": "pdoak",
+            "postal-code": "2344",
+            "street": "1122"
+        },
+        "id": "743.751840291521",
+        "items": [
+            {
+                "description": "Creamy cheddar cheese mixed with perfectly cooked macaroni, topped with crispy breadcrumbs. A classic comfort food.",
+                "id": "m1",
+                "image": "images/mac-and-cheese.jpg",
+                "name": "Mac & Cheese",
+                "price": "8.99",
+                "quantity": 1
+            },
+            {
+                "description": "A classic pizza with fresh mozzarella, tomatoes, and basil on a thin and crispy crust.",
+                "id": "m2",
+                "image": "images/margherita-pizza.jpg",
+                "name": "Margherita Pizza",
+                "price": "12.99",
+                "quantity": 1
+            }
+        ]
+    }
+]
